@@ -1,5 +1,5 @@
 # What You Will Learn
-## Project Architecture
+## Project Architecture 
 ![Genie Insurance Platform Architecture](images/platform-architecture.png)
 
 By completing the **Genie Insurance Platform** project end to end, you will learn how a real enterprise data and AI platform is designed, secured, deployed, tested, and operated—not just how to run a few Databricks notebooks.
