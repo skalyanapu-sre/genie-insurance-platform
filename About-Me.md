@@ -1,6 +1,6 @@
 # Srinivas Kalyanapu
 
-## Sr. Data Engineering, SRE & Cloud/AI Platform Engineer
+## Sr. Data Engineering, Architect, SRE & Cloud/AI Platform Engineer
 
 > **18+ Years of Experience | Data Engineering | Databricks | Cloud | DevOps/SRE | AI/ML Infrastructure | GPU Platforms | AI Agents & MCP**
 
