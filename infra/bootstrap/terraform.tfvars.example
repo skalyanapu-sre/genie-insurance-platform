@@ -1,0 +1,4 @@
+location                     = "eastus"
+tfstate_resource_group_name  = "mqgen-tfstate-rg"
+tfstate_storage_account_name = "<TFSTATE_STORAGE_ACCOUNT_NAME>"
+tfstate_container_name       = "tfstate"
