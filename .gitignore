@@ -1,1 +1,24 @@
 .DS_Store
+# Terraform working directories
+**/.terraform/*
+
+# Terraform state
+*.tfstate
+*.tfstate.*
+
+# Terraform plans
+*.tfplan
+tfplan
+
+# Local variable files
+*.tfvars
+*.tfvars.json
+
+# Local environment files
+.env
+.env.*
+
+# Keys
+*.pem
+*.key
+*.pfx
