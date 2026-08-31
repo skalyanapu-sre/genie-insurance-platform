@@ -3,7 +3,7 @@
 
 > **Purpose:** Define a controlled, phase-wise implementation strategy for the Genie Insurance Platform using enterprise platform engineering, data engineering, DevOps, security, and SRE practices.
 
-## Project Architecture
+## Project Architecture 
 
 ![Genie Insurance Platform Architecture](docs/initial-software-setup/images/platform-architecture.png)
 >
